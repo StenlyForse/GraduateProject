@@ -1,0 +1,14 @@
+C:\Users\Alex\source\repos\NeuroApp\NeuroApp\bin\Debug\NeuroApp.exe.config
+C:\Users\Alex\source\repos\NeuroApp\NeuroApp\bin\Debug\NeuroApp.exe
+C:\Users\Alex\source\repos\NeuroApp\NeuroApp\bin\Debug\NeuroApp.pdb
+C:\Users\Alex\source\repos\NeuroApp\NeuroApp\obj\Debug\NeuroApp.csprojResolveAssemblyReference.cache
+C:\Users\Alex\source\repos\NeuroApp\NeuroApp\obj\Debug\NeuroApp.Form1.resources
+C:\Users\Alex\source\repos\NeuroApp\NeuroApp\obj\Debug\NeuroApp.Properties.Resources.resources
+C:\Users\Alex\source\repos\NeuroApp\NeuroApp\obj\Debug\NeuroApp.csproj.GenerateResource.Cache
+C:\Users\Alex\source\repos\NeuroApp\NeuroApp\obj\Debug\NeuroApp.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\NeuroApp\NeuroApp\obj\Debug\NeuroApp.exe
+C:\Users\Alex\source\repos\NeuroApp\NeuroApp\obj\Debug\NeuroApp.pdb
+C:\Users\Alex\source\repos\NeuroApp\NeuroApp\obj\Debug\NeuroApp.CreateModelForm.resources
+C:\Users\Alex\source\repos\NeuroApp\NeuroApp\obj\Debug\NeuroApp.LoadModelForm.resources
+C:\Users\Alex\source\repos\NeuroApp\NeuroApp\obj\Debug\NeuroApp.RetrainModelForm.resources
+C:\Users\Alex\source\repos\NeuroApp\NeuroApp\obj\Debug\NeuroApp.DBParamsForm.resources
